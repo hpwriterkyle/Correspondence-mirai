@@ -1,5 +1,5 @@
-# mirai-console-plugin-template
+# Correspondence-mirai
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
+此为[CustomCorresponence](https://github.com/UnnamedCraft/CustomCorrespondence)之mirai通讯节点
 
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+为其插件之效用
